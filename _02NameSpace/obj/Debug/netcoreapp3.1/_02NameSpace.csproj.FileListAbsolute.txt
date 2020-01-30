@@ -1,0 +1,10 @@
+C:\Users\hyoil\source\repos\HelloWorld\_02NameSpace\bin\Debug\netcoreapp3.1\_02NameSpace.exe
+C:\Users\hyoil\source\repos\HelloWorld\_02NameSpace\bin\Debug\netcoreapp3.1\_02NameSpace.deps.json
+C:\Users\hyoil\source\repos\HelloWorld\_02NameSpace\bin\Debug\netcoreapp3.1\_02NameSpace.runtimeconfig.json
+C:\Users\hyoil\source\repos\HelloWorld\_02NameSpace\bin\Debug\netcoreapp3.1\_02NameSpace.runtimeconfig.dev.json
+C:\Users\hyoil\source\repos\HelloWorld\_02NameSpace\bin\Debug\netcoreapp3.1\_02NameSpace.dll
+C:\Users\hyoil\source\repos\HelloWorld\_02NameSpace\bin\Debug\netcoreapp3.1\_02NameSpace.pdb
+C:\Users\hyoil\source\repos\HelloWorld\_02NameSpace\obj\Debug\netcoreapp3.1\_02NameSpace.AssemblyInfoInputs.cache
+C:\Users\hyoil\source\repos\HelloWorld\_02NameSpace\obj\Debug\netcoreapp3.1\_02NameSpace.AssemblyInfo.cs
+C:\Users\hyoil\source\repos\HelloWorld\_02NameSpace\obj\Debug\netcoreapp3.1\_02NameSpace.dll
+C:\Users\hyoil\source\repos\HelloWorld\_02NameSpace\obj\Debug\netcoreapp3.1\_02NameSpace.pdb
