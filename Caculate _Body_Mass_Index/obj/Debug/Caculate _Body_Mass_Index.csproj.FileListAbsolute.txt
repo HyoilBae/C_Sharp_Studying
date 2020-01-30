@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\Caculate _Body_Mass_Index\Caculate _Body_Mass_Index\bin\Debug\Caculate _Body_Mass_Index.exe.config
+C:\Users\hyoil\source\repos\Caculate _Body_Mass_Index\Caculate _Body_Mass_Index\bin\Debug\Caculate _Body_Mass_Index.exe
+C:\Users\hyoil\source\repos\Caculate _Body_Mass_Index\Caculate _Body_Mass_Index\bin\Debug\Caculate _Body_Mass_Index.pdb
+C:\Users\hyoil\source\repos\Caculate _Body_Mass_Index\Caculate _Body_Mass_Index\obj\Debug\Caculate _Body_Mass_Index.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\Caculate _Body_Mass_Index\Caculate _Body_Mass_Index\obj\Debug\Caculate _Body_Mass_Index.exe
+C:\Users\hyoil\source\repos\Caculate _Body_Mass_Index\Caculate _Body_Mass_Index\obj\Debug\Caculate _Body_Mass_Index.pdb
