@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\NawooCommunication\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\hyoil\source\repos\NawooCommunication\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\hyoil\source\repos\NawooCommunication\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\hyoil\source\repos\NawooCommunication\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\NawooCommunication\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\hyoil\source\repos\NawooCommunication\HelloWorld\obj\Debug\HelloWorld.pdb
