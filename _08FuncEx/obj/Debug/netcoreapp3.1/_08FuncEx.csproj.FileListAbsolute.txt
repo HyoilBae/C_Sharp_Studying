@@ -1,0 +1,10 @@
+C:\Users\hyoil\source\repos\HelloWorld\_08FuncEx\bin\Debug\netcoreapp3.1\_08FuncEx.exe
+C:\Users\hyoil\source\repos\HelloWorld\_08FuncEx\bin\Debug\netcoreapp3.1\_08FuncEx.deps.json
+C:\Users\hyoil\source\repos\HelloWorld\_08FuncEx\bin\Debug\netcoreapp3.1\_08FuncEx.runtimeconfig.json
+C:\Users\hyoil\source\repos\HelloWorld\_08FuncEx\bin\Debug\netcoreapp3.1\_08FuncEx.runtimeconfig.dev.json
+C:\Users\hyoil\source\repos\HelloWorld\_08FuncEx\bin\Debug\netcoreapp3.1\_08FuncEx.dll
+C:\Users\hyoil\source\repos\HelloWorld\_08FuncEx\bin\Debug\netcoreapp3.1\_08FuncEx.pdb
+C:\Users\hyoil\source\repos\HelloWorld\_08FuncEx\obj\Debug\netcoreapp3.1\_08FuncEx.AssemblyInfoInputs.cache
+C:\Users\hyoil\source\repos\HelloWorld\_08FuncEx\obj\Debug\netcoreapp3.1\_08FuncEx.AssemblyInfo.cs
+C:\Users\hyoil\source\repos\HelloWorld\_08FuncEx\obj\Debug\netcoreapp3.1\_08FuncEx.dll
+C:\Users\hyoil\source\repos\HelloWorld\_08FuncEx\obj\Debug\netcoreapp3.1\_08FuncEx.pdb

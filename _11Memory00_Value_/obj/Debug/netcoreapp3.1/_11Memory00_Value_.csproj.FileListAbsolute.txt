@@ -1,0 +1,11 @@
+C:\Users\hyoil\source\repos\HelloWorld\_11Memory00_Value_\obj\Debug\netcoreapp3.1\_11Memory00_Value_.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\HelloWorld\_11Memory00_Value_\obj\Debug\netcoreapp3.1\_11Memory00_Value_.AssemblyInfoInputs.cache
+C:\Users\hyoil\source\repos\HelloWorld\_11Memory00_Value_\obj\Debug\netcoreapp3.1\_11Memory00_Value_.AssemblyInfo.cs
+C:\Users\hyoil\source\repos\HelloWorld\_11Memory00_Value_\bin\Debug\netcoreapp3.1\_11Memory00_Value_.exe
+C:\Users\hyoil\source\repos\HelloWorld\_11Memory00_Value_\bin\Debug\netcoreapp3.1\_11Memory00_Value_.deps.json
+C:\Users\hyoil\source\repos\HelloWorld\_11Memory00_Value_\bin\Debug\netcoreapp3.1\_11Memory00_Value_.runtimeconfig.json
+C:\Users\hyoil\source\repos\HelloWorld\_11Memory00_Value_\bin\Debug\netcoreapp3.1\_11Memory00_Value_.runtimeconfig.dev.json
+C:\Users\hyoil\source\repos\HelloWorld\_11Memory00_Value_\bin\Debug\netcoreapp3.1\_11Memory00_Value_.dll
+C:\Users\hyoil\source\repos\HelloWorld\_11Memory00_Value_\bin\Debug\netcoreapp3.1\_11Memory00_Value_.pdb
+C:\Users\hyoil\source\repos\HelloWorld\_11Memory00_Value_\obj\Debug\netcoreapp3.1\_11Memory00_Value_.dll
+C:\Users\hyoil\source\repos\HelloWorld\_11Memory00_Value_\obj\Debug\netcoreapp3.1\_11Memory00_Value_.pdb

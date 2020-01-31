@@ -1,0 +1,10 @@
+C:\Users\hyoil\source\repos\HelloWorld\_07ClassAccess\obj\Debug\netcoreapp3.1\_07ClassAccess.AssemblyInfoInputs.cache
+C:\Users\hyoil\source\repos\HelloWorld\_07ClassAccess\obj\Debug\netcoreapp3.1\_07ClassAccess.AssemblyInfo.cs
+C:\Users\hyoil\source\repos\HelloWorld\_07ClassAccess\bin\Debug\netcoreapp3.1\_07ClassAccess.exe
+C:\Users\hyoil\source\repos\HelloWorld\_07ClassAccess\bin\Debug\netcoreapp3.1\_07ClassAccess.deps.json
+C:\Users\hyoil\source\repos\HelloWorld\_07ClassAccess\bin\Debug\netcoreapp3.1\_07ClassAccess.runtimeconfig.json
+C:\Users\hyoil\source\repos\HelloWorld\_07ClassAccess\bin\Debug\netcoreapp3.1\_07ClassAccess.runtimeconfig.dev.json
+C:\Users\hyoil\source\repos\HelloWorld\_07ClassAccess\bin\Debug\netcoreapp3.1\_07ClassAccess.dll
+C:\Users\hyoil\source\repos\HelloWorld\_07ClassAccess\bin\Debug\netcoreapp3.1\_07ClassAccess.pdb
+C:\Users\hyoil\source\repos\HelloWorld\_07ClassAccess\obj\Debug\netcoreapp3.1\_07ClassAccess.dll
+C:\Users\hyoil\source\repos\HelloWorld\_07ClassAccess\obj\Debug\netcoreapp3.1\_07ClassAccess.pdb
