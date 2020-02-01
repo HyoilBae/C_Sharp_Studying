@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\NawooCommunication\5.Array\bin\Debug\5.Array.exe.config
+C:\Users\hyoil\source\repos\NawooCommunication\5.Array\bin\Debug\5.Array.exe
+C:\Users\hyoil\source\repos\NawooCommunication\5.Array\bin\Debug\5.Array.pdb
+C:\Users\hyoil\source\repos\NawooCommunication\5.Array\obj\Debug\5.Array.exe
+C:\Users\hyoil\source\repos\NawooCommunication\5.Array\obj\Debug\5.Array.pdb
+C:\Users\hyoil\source\repos\NawooCommunication\5.Array\obj\Debug\5.Array.csprojAssemblyReference.cache
