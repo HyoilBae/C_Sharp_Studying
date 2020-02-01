@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\NawooCommunication\5-3\bin\Debug\5-3.exe.config
+C:\Users\hyoil\source\repos\NawooCommunication\5-3\bin\Debug\5-3.exe
+C:\Users\hyoil\source\repos\NawooCommunication\5-3\bin\Debug\5-3.pdb
+C:\Users\hyoil\source\repos\NawooCommunication\5-3\obj\Debug\5-3.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\NawooCommunication\5-3\obj\Debug\5-3.exe
+C:\Users\hyoil\source\repos\NawooCommunication\5-3\obj\Debug\5-3.pdb
