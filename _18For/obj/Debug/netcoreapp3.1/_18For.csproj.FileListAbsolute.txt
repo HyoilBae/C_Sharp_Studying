@@ -1,0 +1,10 @@
+C:\Users\hyoil\source\repos\HelloWorld\_18For\bin\Debug\netcoreapp3.1\_18For.exe
+C:\Users\hyoil\source\repos\HelloWorld\_18For\bin\Debug\netcoreapp3.1\_18For.deps.json
+C:\Users\hyoil\source\repos\HelloWorld\_18For\bin\Debug\netcoreapp3.1\_18For.runtimeconfig.json
+C:\Users\hyoil\source\repos\HelloWorld\_18For\bin\Debug\netcoreapp3.1\_18For.runtimeconfig.dev.json
+C:\Users\hyoil\source\repos\HelloWorld\_18For\bin\Debug\netcoreapp3.1\_18For.dll
+C:\Users\hyoil\source\repos\HelloWorld\_18For\bin\Debug\netcoreapp3.1\_18For.pdb
+C:\Users\hyoil\source\repos\HelloWorld\_18For\obj\Debug\netcoreapp3.1\_18For.AssemblyInfoInputs.cache
+C:\Users\hyoil\source\repos\HelloWorld\_18For\obj\Debug\netcoreapp3.1\_18For.AssemblyInfo.cs
+C:\Users\hyoil\source\repos\HelloWorld\_18For\obj\Debug\netcoreapp3.1\_18For.dll
+C:\Users\hyoil\source\repos\HelloWorld\_18For\obj\Debug\netcoreapp3.1\_18For.pdb
