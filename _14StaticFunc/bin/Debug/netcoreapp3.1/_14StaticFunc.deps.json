@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "_14StaticFunc/1.0.0": {
+        "runtime": {
+          "_14StaticFunc.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "_14StaticFunc/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
