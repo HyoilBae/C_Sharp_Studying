@@ -1,0 +1,10 @@
+C:\Users\hyoil\source\repos\HelloWorld\_12Struct_Enum\bin\Debug\netcoreapp3.1\_21Struct_Enum.exe
+C:\Users\hyoil\source\repos\HelloWorld\_12Struct_Enum\bin\Debug\netcoreapp3.1\_21Struct_Enum.deps.json
+C:\Users\hyoil\source\repos\HelloWorld\_12Struct_Enum\bin\Debug\netcoreapp3.1\_21Struct_Enum.runtimeconfig.json
+C:\Users\hyoil\source\repos\HelloWorld\_12Struct_Enum\bin\Debug\netcoreapp3.1\_21Struct_Enum.runtimeconfig.dev.json
+C:\Users\hyoil\source\repos\HelloWorld\_12Struct_Enum\bin\Debug\netcoreapp3.1\_21Struct_Enum.dll
+C:\Users\hyoil\source\repos\HelloWorld\_12Struct_Enum\bin\Debug\netcoreapp3.1\_21Struct_Enum.pdb
+C:\Users\hyoil\source\repos\HelloWorld\_12Struct_Enum\obj\Debug\netcoreapp3.1\_21Struct_Enum.AssemblyInfoInputs.cache
+C:\Users\hyoil\source\repos\HelloWorld\_12Struct_Enum\obj\Debug\netcoreapp3.1\_21Struct_Enum.AssemblyInfo.cs
+C:\Users\hyoil\source\repos\HelloWorld\_12Struct_Enum\obj\Debug\netcoreapp3.1\_21Struct_Enum.dll
+C:\Users\hyoil\source\repos\HelloWorld\_12Struct_Enum\obj\Debug\netcoreapp3.1\_21Struct_Enum.pdb
