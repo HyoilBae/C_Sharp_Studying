@@ -1,0 +1,11 @@
+C:\Users\hyoil\source\repos\HelloWorld\_15This\bin\Debug\netcoreapp3.1\_15This.exe
+C:\Users\hyoil\source\repos\HelloWorld\_15This\bin\Debug\netcoreapp3.1\_15This.deps.json
+C:\Users\hyoil\source\repos\HelloWorld\_15This\bin\Debug\netcoreapp3.1\_15This.runtimeconfig.json
+C:\Users\hyoil\source\repos\HelloWorld\_15This\bin\Debug\netcoreapp3.1\_15This.runtimeconfig.dev.json
+C:\Users\hyoil\source\repos\HelloWorld\_15This\bin\Debug\netcoreapp3.1\_15This.dll
+C:\Users\hyoil\source\repos\HelloWorld\_15This\bin\Debug\netcoreapp3.1\_15This.pdb
+C:\Users\hyoil\source\repos\HelloWorld\_15This\obj\Debug\netcoreapp3.1\_15This.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\HelloWorld\_15This\obj\Debug\netcoreapp3.1\_15This.AssemblyInfoInputs.cache
+C:\Users\hyoil\source\repos\HelloWorld\_15This\obj\Debug\netcoreapp3.1\_15This.AssemblyInfo.cs
+C:\Users\hyoil\source\repos\HelloWorld\_15This\obj\Debug\netcoreapp3.1\_15This.dll
+C:\Users\hyoil\source\repos\HelloWorld\_15This\obj\Debug\netcoreapp3.1\_15This.pdb
