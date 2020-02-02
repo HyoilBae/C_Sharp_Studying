@@ -1,0 +1,10 @@
+C:\Users\hyoil\source\repos\HelloWorld\_19If\bin\Debug\netcoreapp3.1\_19If.exe
+C:\Users\hyoil\source\repos\HelloWorld\_19If\bin\Debug\netcoreapp3.1\_19If.deps.json
+C:\Users\hyoil\source\repos\HelloWorld\_19If\bin\Debug\netcoreapp3.1\_19If.runtimeconfig.json
+C:\Users\hyoil\source\repos\HelloWorld\_19If\bin\Debug\netcoreapp3.1\_19If.runtimeconfig.dev.json
+C:\Users\hyoil\source\repos\HelloWorld\_19If\bin\Debug\netcoreapp3.1\_19If.dll
+C:\Users\hyoil\source\repos\HelloWorld\_19If\bin\Debug\netcoreapp3.1\_19If.pdb
+C:\Users\hyoil\source\repos\HelloWorld\_19If\obj\Debug\netcoreapp3.1\_19If.AssemblyInfoInputs.cache
+C:\Users\hyoil\source\repos\HelloWorld\_19If\obj\Debug\netcoreapp3.1\_19If.AssemblyInfo.cs
+C:\Users\hyoil\source\repos\HelloWorld\_19If\obj\Debug\netcoreapp3.1\_19If.dll
+C:\Users\hyoil\source\repos\HelloWorld\_19If\obj\Debug\netcoreapp3.1\_19If.pdb
