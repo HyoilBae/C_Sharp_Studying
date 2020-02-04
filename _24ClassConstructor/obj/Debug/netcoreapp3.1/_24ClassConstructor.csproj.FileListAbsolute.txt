@@ -1,0 +1,10 @@
+C:\Users\hyoil\source\repos\HelloWorld\_24ClassConstructor\bin\Debug\netcoreapp3.1\_24ClassConstructor.exe
+C:\Users\hyoil\source\repos\HelloWorld\_24ClassConstructor\bin\Debug\netcoreapp3.1\_24ClassConstructor.deps.json
+C:\Users\hyoil\source\repos\HelloWorld\_24ClassConstructor\bin\Debug\netcoreapp3.1\_24ClassConstructor.runtimeconfig.json
+C:\Users\hyoil\source\repos\HelloWorld\_24ClassConstructor\bin\Debug\netcoreapp3.1\_24ClassConstructor.runtimeconfig.dev.json
+C:\Users\hyoil\source\repos\HelloWorld\_24ClassConstructor\bin\Debug\netcoreapp3.1\_24ClassConstructor.dll
+C:\Users\hyoil\source\repos\HelloWorld\_24ClassConstructor\bin\Debug\netcoreapp3.1\_24ClassConstructor.pdb
+C:\Users\hyoil\source\repos\HelloWorld\_24ClassConstructor\obj\Debug\netcoreapp3.1\_24ClassConstructor.AssemblyInfoInputs.cache
+C:\Users\hyoil\source\repos\HelloWorld\_24ClassConstructor\obj\Debug\netcoreapp3.1\_24ClassConstructor.AssemblyInfo.cs
+C:\Users\hyoil\source\repos\HelloWorld\_24ClassConstructor\obj\Debug\netcoreapp3.1\_24ClassConstructor.dll
+C:\Users\hyoil\source\repos\HelloWorld\_24ClassConstructor\obj\Debug\netcoreapp3.1\_24ClassConstructor.pdb
