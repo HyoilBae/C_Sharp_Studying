@@ -1,0 +1,10 @@
+C:\Users\hyoil\source\repos\HelloWorld\_20Switch\bin\Debug\netcoreapp3.1\_20Switch.exe
+C:\Users\hyoil\source\repos\HelloWorld\_20Switch\bin\Debug\netcoreapp3.1\_20Switch.deps.json
+C:\Users\hyoil\source\repos\HelloWorld\_20Switch\bin\Debug\netcoreapp3.1\_20Switch.runtimeconfig.json
+C:\Users\hyoil\source\repos\HelloWorld\_20Switch\bin\Debug\netcoreapp3.1\_20Switch.runtimeconfig.dev.json
+C:\Users\hyoil\source\repos\HelloWorld\_20Switch\bin\Debug\netcoreapp3.1\_20Switch.dll
+C:\Users\hyoil\source\repos\HelloWorld\_20Switch\bin\Debug\netcoreapp3.1\_20Switch.pdb
+C:\Users\hyoil\source\repos\HelloWorld\_20Switch\obj\Debug\netcoreapp3.1\_20Switch.AssemblyInfoInputs.cache
+C:\Users\hyoil\source\repos\HelloWorld\_20Switch\obj\Debug\netcoreapp3.1\_20Switch.AssemblyInfo.cs
+C:\Users\hyoil\source\repos\HelloWorld\_20Switch\obj\Debug\netcoreapp3.1\_20Switch.dll
+C:\Users\hyoil\source\repos\HelloWorld\_20Switch\obj\Debug\netcoreapp3.1\_20Switch.pdb
