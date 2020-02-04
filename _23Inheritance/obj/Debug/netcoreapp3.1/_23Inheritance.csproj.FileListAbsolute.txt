@@ -1,0 +1,11 @@
+C:\Users\hyoil\source\repos\HelloWorld\_23Inheritance\bin\Debug\netcoreapp3.1\_23Inheritance.exe
+C:\Users\hyoil\source\repos\HelloWorld\_23Inheritance\bin\Debug\netcoreapp3.1\_23Inheritance.deps.json
+C:\Users\hyoil\source\repos\HelloWorld\_23Inheritance\bin\Debug\netcoreapp3.1\_23Inheritance.runtimeconfig.json
+C:\Users\hyoil\source\repos\HelloWorld\_23Inheritance\bin\Debug\netcoreapp3.1\_23Inheritance.runtimeconfig.dev.json
+C:\Users\hyoil\source\repos\HelloWorld\_23Inheritance\bin\Debug\netcoreapp3.1\_23Inheritance.dll
+C:\Users\hyoil\source\repos\HelloWorld\_23Inheritance\bin\Debug\netcoreapp3.1\_23Inheritance.pdb
+C:\Users\hyoil\source\repos\HelloWorld\_23Inheritance\obj\Debug\netcoreapp3.1\_23Inheritance.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\HelloWorld\_23Inheritance\obj\Debug\netcoreapp3.1\_23Inheritance.AssemblyInfoInputs.cache
+C:\Users\hyoil\source\repos\HelloWorld\_23Inheritance\obj\Debug\netcoreapp3.1\_23Inheritance.AssemblyInfo.cs
+C:\Users\hyoil\source\repos\HelloWorld\_23Inheritance\obj\Debug\netcoreapp3.1\_23Inheritance.dll
+C:\Users\hyoil\source\repos\HelloWorld\_23Inheritance\obj\Debug\netcoreapp3.1\_23Inheritance.pdb
