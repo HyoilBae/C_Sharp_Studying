@@ -1,0 +1,11 @@
+C:\Users\hyoil\source\repos\HelloWorld\_26Property\obj\Debug\netcoreapp3.1\_26Property.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\HelloWorld\_26Property\obj\Debug\netcoreapp3.1\_26Property.AssemblyInfoInputs.cache
+C:\Users\hyoil\source\repos\HelloWorld\_26Property\obj\Debug\netcoreapp3.1\_26Property.AssemblyInfo.cs
+C:\Users\hyoil\source\repos\HelloWorld\_26Property\bin\Debug\netcoreapp3.1\_26Property.exe
+C:\Users\hyoil\source\repos\HelloWorld\_26Property\bin\Debug\netcoreapp3.1\_26Property.deps.json
+C:\Users\hyoil\source\repos\HelloWorld\_26Property\bin\Debug\netcoreapp3.1\_26Property.runtimeconfig.json
+C:\Users\hyoil\source\repos\HelloWorld\_26Property\bin\Debug\netcoreapp3.1\_26Property.runtimeconfig.dev.json
+C:\Users\hyoil\source\repos\HelloWorld\_26Property\bin\Debug\netcoreapp3.1\_26Property.dll
+C:\Users\hyoil\source\repos\HelloWorld\_26Property\bin\Debug\netcoreapp3.1\_26Property.pdb
+C:\Users\hyoil\source\repos\HelloWorld\_26Property\obj\Debug\netcoreapp3.1\_26Property.dll
+C:\Users\hyoil\source\repos\HelloWorld\_26Property\obj\Debug\netcoreapp3.1\_26Property.pdb
