@@ -1,0 +1,10 @@
+C:\Users\hyoil\source\repos\HelloWorld\_30OverRiding\bin\Debug\netcoreapp3.1\_30OverRiding.exe
+C:\Users\hyoil\source\repos\HelloWorld\_30OverRiding\bin\Debug\netcoreapp3.1\_30OverRiding.deps.json
+C:\Users\hyoil\source\repos\HelloWorld\_30OverRiding\bin\Debug\netcoreapp3.1\_30OverRiding.runtimeconfig.json
+C:\Users\hyoil\source\repos\HelloWorld\_30OverRiding\bin\Debug\netcoreapp3.1\_30OverRiding.runtimeconfig.dev.json
+C:\Users\hyoil\source\repos\HelloWorld\_30OverRiding\bin\Debug\netcoreapp3.1\_30OverRiding.dll
+C:\Users\hyoil\source\repos\HelloWorld\_30OverRiding\bin\Debug\netcoreapp3.1\_30OverRiding.pdb
+C:\Users\hyoil\source\repos\HelloWorld\_30OverRiding\obj\Debug\netcoreapp3.1\_30OverRiding.AssemblyInfoInputs.cache
+C:\Users\hyoil\source\repos\HelloWorld\_30OverRiding\obj\Debug\netcoreapp3.1\_30OverRiding.AssemblyInfo.cs
+C:\Users\hyoil\source\repos\HelloWorld\_30OverRiding\obj\Debug\netcoreapp3.1\_30OverRiding.dll
+C:\Users\hyoil\source\repos\HelloWorld\_30OverRiding\obj\Debug\netcoreapp3.1\_30OverRiding.pdb
