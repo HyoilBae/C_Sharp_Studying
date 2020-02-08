@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "_38_2_DataStructure_Nod/1.0.0": {
+        "runtime": {
+          "_38_2_DataStructure_Nod.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "_38_2_DataStructure_Nod/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

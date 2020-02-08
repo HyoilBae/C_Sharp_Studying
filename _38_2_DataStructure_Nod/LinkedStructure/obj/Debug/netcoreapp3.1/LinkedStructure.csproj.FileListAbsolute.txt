@@ -1,0 +1,11 @@
+C:\Users\hyoil\source\repos\HelloWorld\_38_2_DataStructure_Nod\LinkedStructure\bin\Debug\netcoreapp3.1\LinkedStructure.exe
+C:\Users\hyoil\source\repos\HelloWorld\_38_2_DataStructure_Nod\LinkedStructure\bin\Debug\netcoreapp3.1\LinkedStructure.deps.json
+C:\Users\hyoil\source\repos\HelloWorld\_38_2_DataStructure_Nod\LinkedStructure\bin\Debug\netcoreapp3.1\LinkedStructure.runtimeconfig.json
+C:\Users\hyoil\source\repos\HelloWorld\_38_2_DataStructure_Nod\LinkedStructure\bin\Debug\netcoreapp3.1\LinkedStructure.runtimeconfig.dev.json
+C:\Users\hyoil\source\repos\HelloWorld\_38_2_DataStructure_Nod\LinkedStructure\bin\Debug\netcoreapp3.1\LinkedStructure.dll
+C:\Users\hyoil\source\repos\HelloWorld\_38_2_DataStructure_Nod\LinkedStructure\bin\Debug\netcoreapp3.1\LinkedStructure.pdb
+C:\Users\hyoil\source\repos\HelloWorld\_38_2_DataStructure_Nod\LinkedStructure\obj\Debug\netcoreapp3.1\LinkedStructure.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\HelloWorld\_38_2_DataStructure_Nod\LinkedStructure\obj\Debug\netcoreapp3.1\LinkedStructure.AssemblyInfoInputs.cache
+C:\Users\hyoil\source\repos\HelloWorld\_38_2_DataStructure_Nod\LinkedStructure\obj\Debug\netcoreapp3.1\LinkedStructure.AssemblyInfo.cs
+C:\Users\hyoil\source\repos\HelloWorld\_38_2_DataStructure_Nod\LinkedStructure\obj\Debug\netcoreapp3.1\LinkedStructure.dll
+C:\Users\hyoil\source\repos\HelloWorld\_38_2_DataStructure_Nod\LinkedStructure\obj\Debug\netcoreapp3.1\LinkedStructure.pdb
