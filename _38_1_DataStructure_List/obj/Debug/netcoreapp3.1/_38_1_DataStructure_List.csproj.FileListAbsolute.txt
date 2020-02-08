@@ -1,0 +1,10 @@
+C:\Users\hyoil\source\repos\HelloWorld\_38_1_DataStructure_List\bin\Debug\netcoreapp3.1\_38_1_DataStructure_List.exe
+C:\Users\hyoil\source\repos\HelloWorld\_38_1_DataStructure_List\bin\Debug\netcoreapp3.1\_38_1_DataStructure_List.deps.json
+C:\Users\hyoil\source\repos\HelloWorld\_38_1_DataStructure_List\bin\Debug\netcoreapp3.1\_38_1_DataStructure_List.runtimeconfig.json
+C:\Users\hyoil\source\repos\HelloWorld\_38_1_DataStructure_List\bin\Debug\netcoreapp3.1\_38_1_DataStructure_List.runtimeconfig.dev.json
+C:\Users\hyoil\source\repos\HelloWorld\_38_1_DataStructure_List\bin\Debug\netcoreapp3.1\_38_1_DataStructure_List.dll
+C:\Users\hyoil\source\repos\HelloWorld\_38_1_DataStructure_List\bin\Debug\netcoreapp3.1\_38_1_DataStructure_List.pdb
+C:\Users\hyoil\source\repos\HelloWorld\_38_1_DataStructure_List\obj\Debug\netcoreapp3.1\_38_1_DataStructure_List.AssemblyInfoInputs.cache
+C:\Users\hyoil\source\repos\HelloWorld\_38_1_DataStructure_List\obj\Debug\netcoreapp3.1\_38_1_DataStructure_List.AssemblyInfo.cs
+C:\Users\hyoil\source\repos\HelloWorld\_38_1_DataStructure_List\obj\Debug\netcoreapp3.1\_38_1_DataStructure_List.dll
+C:\Users\hyoil\source\repos\HelloWorld\_38_1_DataStructure_List\obj\Debug\netcoreapp3.1\_38_1_DataStructure_List.pdb
