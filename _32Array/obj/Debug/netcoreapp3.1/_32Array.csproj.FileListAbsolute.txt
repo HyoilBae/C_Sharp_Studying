@@ -1,0 +1,11 @@
+C:\Users\hyoil\source\repos\HelloWorld\_32Array\bin\Debug\netcoreapp3.1\_32Array.exe
+C:\Users\hyoil\source\repos\HelloWorld\_32Array\bin\Debug\netcoreapp3.1\_32Array.deps.json
+C:\Users\hyoil\source\repos\HelloWorld\_32Array\bin\Debug\netcoreapp3.1\_32Array.runtimeconfig.json
+C:\Users\hyoil\source\repos\HelloWorld\_32Array\bin\Debug\netcoreapp3.1\_32Array.runtimeconfig.dev.json
+C:\Users\hyoil\source\repos\HelloWorld\_32Array\bin\Debug\netcoreapp3.1\_32Array.dll
+C:\Users\hyoil\source\repos\HelloWorld\_32Array\bin\Debug\netcoreapp3.1\_32Array.pdb
+C:\Users\hyoil\source\repos\HelloWorld\_32Array\obj\Debug\netcoreapp3.1\_32Array.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\HelloWorld\_32Array\obj\Debug\netcoreapp3.1\_32Array.AssemblyInfoInputs.cache
+C:\Users\hyoil\source\repos\HelloWorld\_32Array\obj\Debug\netcoreapp3.1\_32Array.AssemblyInfo.cs
+C:\Users\hyoil\source\repos\HelloWorld\_32Array\obj\Debug\netcoreapp3.1\_32Array.dll
+C:\Users\hyoil\source\repos\HelloWorld\_32Array\obj\Debug\netcoreapp3.1\_32Array.pdb
