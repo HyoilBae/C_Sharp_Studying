@@ -1,0 +1,10 @@
+C:\Users\hyoil\source\repos\HelloWorld\_37Reference01\bin\Debug\netcoreapp3.1\_37Reference01.exe
+C:\Users\hyoil\source\repos\HelloWorld\_37Reference01\bin\Debug\netcoreapp3.1\_37Reference01.deps.json
+C:\Users\hyoil\source\repos\HelloWorld\_37Reference01\bin\Debug\netcoreapp3.1\_37Reference01.runtimeconfig.json
+C:\Users\hyoil\source\repos\HelloWorld\_37Reference01\bin\Debug\netcoreapp3.1\_37Reference01.runtimeconfig.dev.json
+C:\Users\hyoil\source\repos\HelloWorld\_37Reference01\bin\Debug\netcoreapp3.1\_37Reference01.dll
+C:\Users\hyoil\source\repos\HelloWorld\_37Reference01\bin\Debug\netcoreapp3.1\_37Reference01.pdb
+C:\Users\hyoil\source\repos\HelloWorld\_37Reference01\obj\Debug\netcoreapp3.1\_37Reference01.AssemblyInfoInputs.cache
+C:\Users\hyoil\source\repos\HelloWorld\_37Reference01\obj\Debug\netcoreapp3.1\_37Reference01.AssemblyInfo.cs
+C:\Users\hyoil\source\repos\HelloWorld\_37Reference01\obj\Debug\netcoreapp3.1\_37Reference01.dll
+C:\Users\hyoil\source\repos\HelloWorld\_37Reference01\obj\Debug\netcoreapp3.1\_37Reference01.pdb
