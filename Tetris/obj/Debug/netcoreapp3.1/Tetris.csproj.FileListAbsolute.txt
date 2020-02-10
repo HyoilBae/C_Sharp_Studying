@@ -1,0 +1,11 @@
+C:\Users\hyoil\source\repos\HelloWorld\Tetris\obj\Debug\netcoreapp3.1\Tetris.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\HelloWorld\Tetris\obj\Debug\netcoreapp3.1\Tetris.AssemblyInfoInputs.cache
+C:\Users\hyoil\source\repos\HelloWorld\Tetris\obj\Debug\netcoreapp3.1\Tetris.AssemblyInfo.cs
+C:\Users\hyoil\source\repos\HelloWorld\Tetris\bin\Debug\netcoreapp3.1\Tetris.exe
+C:\Users\hyoil\source\repos\HelloWorld\Tetris\bin\Debug\netcoreapp3.1\Tetris.deps.json
+C:\Users\hyoil\source\repos\HelloWorld\Tetris\bin\Debug\netcoreapp3.1\Tetris.runtimeconfig.json
+C:\Users\hyoil\source\repos\HelloWorld\Tetris\bin\Debug\netcoreapp3.1\Tetris.runtimeconfig.dev.json
+C:\Users\hyoil\source\repos\HelloWorld\Tetris\bin\Debug\netcoreapp3.1\Tetris.dll
+C:\Users\hyoil\source\repos\HelloWorld\Tetris\bin\Debug\netcoreapp3.1\Tetris.pdb
+C:\Users\hyoil\source\repos\HelloWorld\Tetris\obj\Debug\netcoreapp3.1\Tetris.dll
+C:\Users\hyoil\source\repos\HelloWorld\Tetris\obj\Debug\netcoreapp3.1\Tetris.pdb
