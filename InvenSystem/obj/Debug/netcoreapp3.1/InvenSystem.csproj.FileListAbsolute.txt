@@ -1,0 +1,11 @@
+C:\Users\hyoil\source\repos\HelloWorld\InvenSystem\bin\Debug\netcoreapp3.1\InvenSystem.exe
+C:\Users\hyoil\source\repos\HelloWorld\InvenSystem\bin\Debug\netcoreapp3.1\InvenSystem.deps.json
+C:\Users\hyoil\source\repos\HelloWorld\InvenSystem\bin\Debug\netcoreapp3.1\InvenSystem.runtimeconfig.json
+C:\Users\hyoil\source\repos\HelloWorld\InvenSystem\bin\Debug\netcoreapp3.1\InvenSystem.runtimeconfig.dev.json
+C:\Users\hyoil\source\repos\HelloWorld\InvenSystem\bin\Debug\netcoreapp3.1\InvenSystem.dll
+C:\Users\hyoil\source\repos\HelloWorld\InvenSystem\bin\Debug\netcoreapp3.1\InvenSystem.pdb
+C:\Users\hyoil\source\repos\HelloWorld\InvenSystem\obj\Debug\netcoreapp3.1\InvenSystem.AssemblyInfoInputs.cache
+C:\Users\hyoil\source\repos\HelloWorld\InvenSystem\obj\Debug\netcoreapp3.1\InvenSystem.AssemblyInfo.cs
+C:\Users\hyoil\source\repos\HelloWorld\InvenSystem\obj\Debug\netcoreapp3.1\InvenSystem.dll
+C:\Users\hyoil\source\repos\HelloWorld\InvenSystem\obj\Debug\netcoreapp3.1\InvenSystem.pdb
+C:\Users\hyoil\source\repos\HelloWorld\InvenSystem\obj\Debug\netcoreapp3.1\InvenSystem.csprojAssemblyReference.cache
