@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\NawooCommunication\7-0-1 BackGroun_Foreground Color\bin\Debug\7-0-1 BackGroun_Foreground Color.exe.config
+C:\Users\hyoil\source\repos\NawooCommunication\7-0-1 BackGroun_Foreground Color\bin\Debug\7-0-1 BackGroun_Foreground Color.exe
+C:\Users\hyoil\source\repos\NawooCommunication\7-0-1 BackGroun_Foreground Color\bin\Debug\7-0-1 BackGroun_Foreground Color.pdb
+C:\Users\hyoil\source\repos\NawooCommunication\7-0-1 BackGroun_Foreground Color\obj\Debug\7-0-1 BackGroun_Foreground Color.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\NawooCommunication\7-0-1 BackGroun_Foreground Color\obj\Debug\7-0-1 BackGroun_Foreground Color.exe
+C:\Users\hyoil\source\repos\NawooCommunication\7-0-1 BackGroun_Foreground Color\obj\Debug\7-0-1 BackGroun_Foreground Color.pdb
