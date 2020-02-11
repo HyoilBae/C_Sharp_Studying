@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\NawooCommunication\6-0 StreamReader\bin\Debug\6-0 StreamReader.exe.config
+C:\Users\hyoil\source\repos\NawooCommunication\6-0 StreamReader\bin\Debug\6-0 StreamReader.exe
+C:\Users\hyoil\source\repos\NawooCommunication\6-0 StreamReader\bin\Debug\6-0 StreamReader.pdb
+C:\Users\hyoil\source\repos\NawooCommunication\6-0 StreamReader\obj\Debug\6-0 StreamReader.exe
+C:\Users\hyoil\source\repos\NawooCommunication\6-0 StreamReader\obj\Debug\6-0 StreamReader.pdb
+C:\Users\hyoil\source\repos\NawooCommunication\6-0 StreamReader\obj\Debug\6-0 StreamReader.csprojAssemblyReference.cache
