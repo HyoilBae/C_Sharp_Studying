@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\NawooCommunication\6-2-1 Serialize\bin\Debug\6-2-1 Serialize.exe.config
+C:\Users\hyoil\source\repos\NawooCommunication\6-2-1 Serialize\bin\Debug\6-2-1 Serialize.exe
+C:\Users\hyoil\source\repos\NawooCommunication\6-2-1 Serialize\bin\Debug\6-2-1 Serialize.pdb
+C:\Users\hyoil\source\repos\NawooCommunication\6-2-1 Serialize\obj\Debug\6-2-1 Serialize.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\NawooCommunication\6-2-1 Serialize\obj\Debug\6-2-1 Serialize.exe
+C:\Users\hyoil\source\repos\NawooCommunication\6-2-1 Serialize\obj\Debug\6-2-1 Serialize.pdb
