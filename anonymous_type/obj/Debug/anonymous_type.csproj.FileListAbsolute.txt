@@ -1,0 +1,5 @@
+C:\Users\hyoil\source\repos\NawooCommunication\anonymous_type\bin\Debug\anonymous_type.exe.config
+C:\Users\hyoil\source\repos\NawooCommunication\anonymous_type\bin\Debug\anonymous_type.exe
+C:\Users\hyoil\source\repos\NawooCommunication\anonymous_type\bin\Debug\anonymous_type.pdb
+C:\Users\hyoil\source\repos\NawooCommunication\anonymous_type\obj\Debug\anonymous_type.exe
+C:\Users\hyoil\source\repos\NawooCommunication\anonymous_type\obj\Debug\anonymous_type.pdb
