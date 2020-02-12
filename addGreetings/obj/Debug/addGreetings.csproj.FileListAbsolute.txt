@@ -1,0 +1,5 @@
+C:\Users\hyoil\source\repos\NawooCommunication\addGreetings\bin\Debug\addGreetings.exe.config
+C:\Users\hyoil\source\repos\NawooCommunication\addGreetings\bin\Debug\addGreetings.exe
+C:\Users\hyoil\source\repos\NawooCommunication\addGreetings\bin\Debug\addGreetings.pdb
+C:\Users\hyoil\source\repos\NawooCommunication\addGreetings\obj\Debug\addGreetings.exe
+C:\Users\hyoil\source\repos\NawooCommunication\addGreetings\obj\Debug\addGreetings.pdb
