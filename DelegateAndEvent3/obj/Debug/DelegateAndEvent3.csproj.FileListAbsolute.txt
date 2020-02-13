@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\NawooCommunication\DelegateAndEvent3\bin\Debug\DelegateAndEvent3.exe.config
+C:\Users\hyoil\source\repos\NawooCommunication\DelegateAndEvent3\bin\Debug\DelegateAndEvent3.exe
+C:\Users\hyoil\source\repos\NawooCommunication\DelegateAndEvent3\bin\Debug\DelegateAndEvent3.pdb
+C:\Users\hyoil\source\repos\NawooCommunication\DelegateAndEvent3\obj\Debug\DelegateAndEvent3.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\NawooCommunication\DelegateAndEvent3\obj\Debug\DelegateAndEvent3.exe
+C:\Users\hyoil\source\repos\NawooCommunication\DelegateAndEvent3\obj\Debug\DelegateAndEvent3.pdb
