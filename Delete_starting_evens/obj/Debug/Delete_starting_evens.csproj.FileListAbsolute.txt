@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\NawooCommunication\Delete_starting_evens\bin\Debug\Delete_starting_evens.exe.config
+C:\Users\hyoil\source\repos\NawooCommunication\Delete_starting_evens\bin\Debug\Delete_starting_evens.exe
+C:\Users\hyoil\source\repos\NawooCommunication\Delete_starting_evens\bin\Debug\Delete_starting_evens.pdb
+C:\Users\hyoil\source\repos\NawooCommunication\Delete_starting_evens\obj\Debug\Delete_starting_evens.exe
+C:\Users\hyoil\source\repos\NawooCommunication\Delete_starting_evens\obj\Debug\Delete_starting_evens.pdb
+C:\Users\hyoil\source\repos\NawooCommunication\Delete_starting_evens\obj\Debug\Delete_starting_evens.csprojAssemblyReference.cache
