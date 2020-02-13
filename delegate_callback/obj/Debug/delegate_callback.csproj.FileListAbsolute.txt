@@ -1,0 +1,5 @@
+C:\Users\hyoil\source\repos\NawooCommunication\delegate_callback\bin\Debug\delegate_callback.exe.config
+C:\Users\hyoil\source\repos\NawooCommunication\delegate_callback\bin\Debug\delegate_callback.exe
+C:\Users\hyoil\source\repos\NawooCommunication\delegate_callback\bin\Debug\delegate_callback.pdb
+C:\Users\hyoil\source\repos\NawooCommunication\delegate_callback\obj\Debug\delegate_callback.exe
+C:\Users\hyoil\source\repos\NawooCommunication\delegate_callback\obj\Debug\delegate_callback.pdb
