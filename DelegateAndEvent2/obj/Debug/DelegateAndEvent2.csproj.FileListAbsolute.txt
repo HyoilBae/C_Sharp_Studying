@@ -1,0 +1,5 @@
+C:\Users\hyoil\source\repos\NawooCommunication\DelegateAndEvent2\bin\Debug\DelegateAndEvent2.exe.config
+C:\Users\hyoil\source\repos\NawooCommunication\DelegateAndEvent2\bin\Debug\DelegateAndEvent2.exe
+C:\Users\hyoil\source\repos\NawooCommunication\DelegateAndEvent2\bin\Debug\DelegateAndEvent2.pdb
+C:\Users\hyoil\source\repos\NawooCommunication\DelegateAndEvent2\obj\Debug\DelegateAndEvent2.exe
+C:\Users\hyoil\source\repos\NawooCommunication\DelegateAndEvent2\obj\Debug\DelegateAndEvent2.pdb
