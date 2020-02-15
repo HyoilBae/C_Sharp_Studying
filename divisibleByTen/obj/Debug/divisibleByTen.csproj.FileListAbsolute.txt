@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\NawooCommunication\divisibleByTen\bin\Debug\divisibleByTen.exe.config
+C:\Users\hyoil\source\repos\NawooCommunication\divisibleByTen\bin\Debug\divisibleByTen.exe
+C:\Users\hyoil\source\repos\NawooCommunication\divisibleByTen\bin\Debug\divisibleByTen.pdb
+C:\Users\hyoil\source\repos\NawooCommunication\divisibleByTen\obj\Debug\divisibleByTen.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\NawooCommunication\divisibleByTen\obj\Debug\divisibleByTen.exe
+C:\Users\hyoil\source\repos\NawooCommunication\divisibleByTen\obj\Debug\divisibleByTen.pdb
