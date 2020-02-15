@@ -1,0 +1,5 @@
+C:\Users\hyoil\source\repos\NawooCommunication\Generic_Collections4\bin\Debug\Generic_Collections4.exe.config
+C:\Users\hyoil\source\repos\NawooCommunication\Generic_Collections4\bin\Debug\Generic_Collections4.exe
+C:\Users\hyoil\source\repos\NawooCommunication\Generic_Collections4\bin\Debug\Generic_Collections4.pdb
+C:\Users\hyoil\source\repos\NawooCommunication\Generic_Collections4\obj\Debug\Generic_Collections4.exe
+C:\Users\hyoil\source\repos\NawooCommunication\Generic_Collections4\obj\Debug\Generic_Collections4.pdb
