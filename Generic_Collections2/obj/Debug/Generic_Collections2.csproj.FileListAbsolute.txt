@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\NawooCommunication\Generic_Collections2\bin\Debug\Generic_Collections2.exe.config
+C:\Users\hyoil\source\repos\NawooCommunication\Generic_Collections2\bin\Debug\Generic_Collections2.exe
+C:\Users\hyoil\source\repos\NawooCommunication\Generic_Collections2\bin\Debug\Generic_Collections2.pdb
+C:\Users\hyoil\source\repos\NawooCommunication\Generic_Collections2\obj\Debug\Generic_Collections2.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\NawooCommunication\Generic_Collections2\obj\Debug\Generic_Collections2.exe
+C:\Users\hyoil\source\repos\NawooCommunication\Generic_Collections2\obj\Debug\Generic_Collections2.pdb
