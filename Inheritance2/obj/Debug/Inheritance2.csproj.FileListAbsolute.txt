@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\NawooCommunication\Inheritance2\bin\Debug\Inheritance2.exe.config
+C:\Users\hyoil\source\repos\NawooCommunication\Inheritance2\bin\Debug\Inheritance2.exe
+C:\Users\hyoil\source\repos\NawooCommunication\Inheritance2\bin\Debug\Inheritance2.pdb
+C:\Users\hyoil\source\repos\NawooCommunication\Inheritance2\obj\Debug\Inheritance2.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\NawooCommunication\Inheritance2\obj\Debug\Inheritance2.exe
+C:\Users\hyoil\source\repos\NawooCommunication\Inheritance2\obj\Debug\Inheritance2.pdb
