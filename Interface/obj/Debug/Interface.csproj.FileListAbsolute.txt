@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\NawooCommunication\Interface\bin\Debug\Interface.exe.config
+C:\Users\hyoil\source\repos\NawooCommunication\Interface\bin\Debug\Interface.exe
+C:\Users\hyoil\source\repos\NawooCommunication\Interface\bin\Debug\Interface.pdb
+C:\Users\hyoil\source\repos\NawooCommunication\Interface\obj\Debug\Interface.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\NawooCommunication\Interface\obj\Debug\Interface.exe
+C:\Users\hyoil\source\repos\NawooCommunication\Interface\obj\Debug\Interface.pdb
