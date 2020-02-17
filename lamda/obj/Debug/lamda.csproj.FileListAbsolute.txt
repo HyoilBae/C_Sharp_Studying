@@ -1,0 +1,5 @@
+C:\Users\hyoil\source\repos\NawooCommunication\lamda\bin\Debug\lamda.exe.config
+C:\Users\hyoil\source\repos\NawooCommunication\lamda\bin\Debug\lamda.exe
+C:\Users\hyoil\source\repos\NawooCommunication\lamda\bin\Debug\lamda.pdb
+C:\Users\hyoil\source\repos\NawooCommunication\lamda\obj\Debug\lamda.exe
+C:\Users\hyoil\source\repos\NawooCommunication\lamda\obj\Debug\lamda.pdb
