@@ -1,6 +1,0 @@
-C:\Users\hyoil\source\repos\NawooCommunication\4.CodeGrammar\bin\Debug\4.CodeGrammar.exe.config
-C:\Users\hyoil\source\repos\NawooCommunication\4.CodeGrammar\bin\Debug\4.CodeGrammar.exe
-C:\Users\hyoil\source\repos\NawooCommunication\4.CodeGrammar\bin\Debug\4.CodeGrammar.pdb
-C:\Users\hyoil\source\repos\NawooCommunication\4.CodeGrammar\obj\Debug\4.CodeGrammar.csprojAssemblyReference.cache
-C:\Users\hyoil\source\repos\NawooCommunication\4.CodeGrammar\obj\Debug\4.CodeGrammar.exe
-C:\Users\hyoil\source\repos\NawooCommunication\4.CodeGrammar\obj\Debug\4.CodeGrammar.pdb
