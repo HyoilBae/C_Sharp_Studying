@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\NawooCommunication\reverseString\bin\Debug\reverseString.exe.config
+C:\Users\hyoil\source\repos\NawooCommunication\reverseString\bin\Debug\reverseString.exe
+C:\Users\hyoil\source\repos\NawooCommunication\reverseString\bin\Debug\reverseString.pdb
+C:\Users\hyoil\source\repos\NawooCommunication\reverseString\obj\Debug\reverseString.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\NawooCommunication\reverseString\obj\Debug\reverseString.exe
+C:\Users\hyoil\source\repos\NawooCommunication\reverseString\obj\Debug\reverseString.pdb
