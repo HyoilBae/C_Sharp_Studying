@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\NawooCommunication\ReverseInteger\bin\Debug\ReverseInteger.exe.config
+C:\Users\hyoil\source\repos\NawooCommunication\ReverseInteger\bin\Debug\ReverseInteger.exe
+C:\Users\hyoil\source\repos\NawooCommunication\ReverseInteger\bin\Debug\ReverseInteger.pdb
+C:\Users\hyoil\source\repos\NawooCommunication\ReverseInteger\obj\Debug\ReverseInteger.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\NawooCommunication\ReverseInteger\obj\Debug\ReverseInteger.exe
+C:\Users\hyoil\source\repos\NawooCommunication\ReverseInteger\obj\Debug\ReverseInteger.pdb
