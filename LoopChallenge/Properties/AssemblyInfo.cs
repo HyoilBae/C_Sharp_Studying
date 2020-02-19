@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("CSC205_Try_Catch")]
+[assembly: AssemblyTitle("LoopChallenge")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("CSC205_Try_Catch")]
+[assembly: AssemblyProduct("LoopChallenge")]
 [assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("2686afde-c661-44de-b1e8-35d97baccc39")]
+[assembly: Guid("02be9fac-1a97-493a-b9f8-5a3cbd1e322c")]
 
 // Version information for an assembly consists of the following four values:
 //

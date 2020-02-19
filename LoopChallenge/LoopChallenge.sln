@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29519.181
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSC205_Try_Catch", "CSC205_Try_Catch.csproj", "{2686AFDE-C661-44DE-B1E8-35D97BACCC39}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopChallenge", "LoopChallenge.csproj", "{02BE9FAC-1A97-493A-B9F8-5A3CBD1E322C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{2686AFDE-C661-44DE-B1E8-35D97BACCC39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2686AFDE-C661-44DE-B1E8-35D97BACCC39}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2686AFDE-C661-44DE-B1E8-35D97BACCC39}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2686AFDE-C661-44DE-B1E8-35D97BACCC39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02BE9FAC-1A97-493A-B9F8-5A3CBD1E322C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02BE9FAC-1A97-493A-B9F8-5A3CBD1E322C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02BE9FAC-1A97-493A-B9F8-5A3CBD1E322C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02BE9FAC-1A97-493A-B9F8-5A3CBD1E322C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {0C0D8BF8-8D1B-4354-BCF3-475C5AE326A7}
+		SolutionGuid = {F5B309A9-E437-47FD-9E95-B5D1ACD38971}
 	EndGlobalSection
 EndGlobal

@@ -1,6 +1,0 @@
-C:\Users\hyoil\source\repos\C#\CSC205\CSC205_Try_Catch\obj\Debug\CSC205_Try_Catch.csprojAssemblyReference.cache
-C:\Users\hyoil\source\repos\C#\CSC205\CSC205_Try_Catch\bin\Debug\CSC205_Try_Catch.exe.config
-C:\Users\hyoil\source\repos\C#\CSC205\CSC205_Try_Catch\bin\Debug\CSC205_Try_Catch.exe
-C:\Users\hyoil\source\repos\C#\CSC205\CSC205_Try_Catch\bin\Debug\CSC205_Try_Catch.pdb
-C:\Users\hyoil\source\repos\C#\CSC205\CSC205_Try_Catch\obj\Debug\CSC205_Try_Catch.exe
-C:\Users\hyoil\source\repos\C#\CSC205\CSC205_Try_Catch\obj\Debug\CSC205_Try_Catch.pdb

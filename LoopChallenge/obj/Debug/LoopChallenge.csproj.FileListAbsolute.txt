@@ -1,0 +1,6 @@
+C:\Users\hyoil\Desktop\MSSA\CSC205\LoopChallenge\bin\Debug\LoopChallenge.exe.config
+C:\Users\hyoil\Desktop\MSSA\CSC205\LoopChallenge\bin\Debug\LoopChallenge.exe
+C:\Users\hyoil\Desktop\MSSA\CSC205\LoopChallenge\bin\Debug\LoopChallenge.pdb
+C:\Users\hyoil\Desktop\MSSA\CSC205\LoopChallenge\obj\Debug\LoopChallenge.csprojAssemblyReference.cache
+C:\Users\hyoil\Desktop\MSSA\CSC205\LoopChallenge\obj\Debug\LoopChallenge.exe
+C:\Users\hyoil\Desktop\MSSA\CSC205\LoopChallenge\obj\Debug\LoopChallenge.pdb
