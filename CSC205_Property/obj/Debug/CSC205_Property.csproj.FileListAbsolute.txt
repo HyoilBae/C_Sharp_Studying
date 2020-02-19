@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\CSC205_Property\bin\Debug\CSC205_Property.exe.config
+C:\Users\hyoil\source\repos\CSC205_Property\bin\Debug\CSC205_Property.exe
+C:\Users\hyoil\source\repos\CSC205_Property\bin\Debug\CSC205_Property.pdb
+C:\Users\hyoil\source\repos\CSC205_Property\obj\Debug\CSC205_Property.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\CSC205_Property\obj\Debug\CSC205_Property.exe
+C:\Users\hyoil\source\repos\CSC205_Property\obj\Debug\CSC205_Property.pdb
