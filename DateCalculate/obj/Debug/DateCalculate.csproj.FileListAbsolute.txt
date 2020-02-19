@@ -1,0 +1,6 @@
+C:\Users\hyoil\Desktop\MSSA\CSC205\DateCalculate\bin\Debug\DateCalculate.exe.config
+C:\Users\hyoil\Desktop\MSSA\CSC205\DateCalculate\bin\Debug\DateCalculate.exe
+C:\Users\hyoil\Desktop\MSSA\CSC205\DateCalculate\bin\Debug\DateCalculate.pdb
+C:\Users\hyoil\Desktop\MSSA\CSC205\DateCalculate\obj\Debug\DateCalculate.csprojAssemblyReference.cache
+C:\Users\hyoil\Desktop\MSSA\CSC205\DateCalculate\obj\Debug\DateCalculate.exe
+C:\Users\hyoil\Desktop\MSSA\CSC205\DateCalculate\obj\Debug\DateCalculate.pdb
