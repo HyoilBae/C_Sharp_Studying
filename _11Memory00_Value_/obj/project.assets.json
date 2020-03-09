@@ -8,20 +8,25 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\hyoil\\.nuget\\packages\\": {}
+    "C:\\Users\\hyoil\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hyoil\\source\\repos\\HelloWorld\\_11Memory00_Value_\\_11Memory00_Value_.csproj",
+      "projectUniqueName": "C:\\Users\\hyoil\\source\\repos\\C_Sharp_Studying\\_11Memory00_Value_\\_11Memory00_Value_.csproj",
       "projectName": "_11Memory00_Value_",
-      "projectPath": "C:\\Users\\hyoil\\source\\repos\\HelloWorld\\_11Memory00_Value_\\_11Memory00_Value_.csproj",
+      "projectPath": "C:\\Users\\hyoil\\source\\repos\\C_Sharp_Studying\\_11Memory00_Value_\\_11Memory00_Value_.csproj",
       "packagesPath": "C:\\Users\\hyoil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hyoil\\source\\repos\\HelloWorld\\_11Memory00_Value_\\obj\\",
+      "outputPath": "C:\\Users\\hyoil\\source\\repos\\C_Sharp_Studying\\_11Memory00_Value_\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
         "C:\\Users\\hyoil\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -58,7 +63,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
