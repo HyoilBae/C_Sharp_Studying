@@ -1,0 +1,191 @@
+#include <stdio.h>
+#include <conio.h>
+#include "screen.h"
+
+typedef enum _VALVE { OPEN, CLOSE } VALVE;
+typedef enum _WATER { HOT, COOL } WATER;
+typedef enum _CUP { CUP_PUSH, CUP_POP } CUP;
+typedef enum _STATE { RUN, STOP } STATE;
+
+
+typedef struct _WATER_PURIFIER{
+	VALVE nHotValve, nCoolValve;
+	WATER nWater;
+	STATE nState; //¹°ÀÌ ³ª¿À´Â »óÅÂ, ÃÖÁ¾ °áÁ¤ º¯¼ö
+} WATER_PURIFIER;
+
+void WaterPurifier()
+{
+	system("cls");
+	gotoxy( 3, 2 );  printf( "¦®¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¯" );
+	gotoxy( 3, 3 );  printf( "¦­                                        ¦­" );
+	gotoxy( 3, 4 );  printf( "¦­                  Now Á¤¼ö±â            ¦­" );
+	gotoxy( 3, 5 );  printf( "¦²¦¬¦³¦³¦¬¦¬¦¬¦¬¦³¦³¦¬¦¬¦³¦³¦¬¦¬¦¬¦¬¦³¦³¦¬¦´" );
+	gotoxy( 3, 6 );  printf( "¦­  ¦­¦­   HOT  ¦­¦­    ¦­¦­  COOL  ¦­¦­  ¦­" );
+	gotoxy( 3, 7 );  printf( "¦­  ¦­¦­ (ÄÚÅ©) ¦­¦­    ¦­¦­ (ÄÚÅ©) ¦­¦­  ¦­   ( Á¤¼ö±â »óÅÂ )" );
+	gotoxy( 3, 8 );  printf( "¦­  ¦­¦­   ¡Û   ¦­¦­    ¦­¦­   ¡Û   ¦­¦­  ¦­" );
+	gotoxy( 3, 9 );  printf( "¦­  ¦­¦±¦¬¦¬¦¬¦¬¦°¦­    ¦­¦±¦¬¦¬¦¬¦¬¦°¦­  ¦­   ¹° ¼±ÅÃ   :" );
+	gotoxy( 3, 10 ); printf( "¦­  ¦­            ¦­    ¦­            ¦­  ¦­   ¹ëºê »óÅÂ :" );
+	gotoxy( 3, 11 ); printf( "¦­  ¦­   (¹ëºê)   ¦­    ¦­   (¹ëºê)   ¦­  ¦­   ¹°¹è¼ö»óÅÂ:" );
+	gotoxy( 3, 12 ); printf( "¦­  ¦±¡á¡á¡á¡á¡á¡á¦°    ¦±¡á¡á¡á¡á¡á¡á¦°  ¦­      " );
+	gotoxy( 3, 13 ); printf( "¦­                                        ¦­" );
+	gotoxy( 3, 14 ); printf( "¦­                                        ¦­" );
+	gotoxy( 3, 15 ); printf( "¦­                                        ¦­" );
+	gotoxy( 3, 16 ); printf( "¦­                                        ¦­" );
+	gotoxy( 3, 17 ); printf( "¦²¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦´" );
+	gotoxy( 3, 18 ); printf( "¦±¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦¬¦°" );
+}
+
+void Cup( int nX, int nY)
+{
+	text_color(GREEN, 0);
+	gotoxy( nX, nY ); printf( "¦®¦¬¦¬¦¬¦¬¦¯" );
+	gotoxy( nX, nY + 1 ); printf( "¦­        ¦­" );
+	gotoxy( nX, nY + 2); printf( " ¦­  ÄÅ  ¦­ " );
+	gotoxy( nX, nY + 3 ); printf( "  ¦­    ¦­  " );
+	gotoxy( nX, nY + 4 ); printf( "  ¦±¦¬¦¬¦°  " );
+	text_color( DEFAULT, 0); 
+}
+
+void Water(int nX, int nY, WATER nWater)
+{
+	if( nWater == COOL )
+		text_color(DEFAULT, BK_BLUE);
+	else
+		text_color(DEFAULT, BK_RED);
+	gotoxy( nX, nY );     printf( "| | | | |" );	 
+	gotoxy( nX, nY + 1 ); printf( "| | | | |" );	 	
+	gotoxy( nX, nY + 2 ); printf( "| | | | |" );	 	
+	text_color(DEFAULT, 0);
+}
+
+int Menu()
+{
+	int nKey;
+	gotoxy( 2, 20 ); printf( "¸Þ´º: 1. Âù¹° 2. ´õ¿î¹° 3.ÄÅ³Ö±â 4.¹ëºê ¹Ð±â 5.ÄÚÅ© ´­·È´Ù ¶¼±â" );
+	gotoxy( 2, 21 ); printf( "      6. ÄÅ »©±â(¹ëºê ³õ±â) 7: Á¾·á  ¸Þ´º ¼±ÅÃ [     ]" ); 
+	gotoxy( 52, 21 );
+	scanf( "%d", &nKey ); fflush(stdin);
+	return nKey;
+}
+
+void WaterPurifierInfo( WATER_PURIFIER Info )
+{
+	text_color(DEFAULT, 0);
+	if( Info.nWater == COOL )
+	{
+		gotoxy( 62, 9 ); printf("Âù¹°");
+		
+		if( Info.nCoolValve == OPEN )
+		{
+			gotoxy( 62, 10 ); printf("¿­¸²");
+		}else{
+			gotoxy( 62, 10 ) ; printf("´ÝÈû");
+		}
+	}else{
+		gotoxy( 62, 9 ); printf("´õ¿î¹°");
+
+		if( Info.nHotValve == OPEN )
+		{
+			gotoxy( 62, 10 ); printf("¿­¸²");
+		}else{
+			gotoxy( 62, 10 ) ; printf("´ÝÈû");
+		}
+	}
+
+	if( Info.nState == RUN )
+	{
+		gotoxy( 62, 11 ); printf("³ª¿È");
+	}else{
+		gotoxy( 62, 11 ); printf("ÁßÁö");
+	}
+}
+
+int main()
+{
+	int nMenu;
+	WATER_PURIFIER sWaterPurifier;
+	CUP nCup = CUP_POP;
+
+	// ÃÊ±âÈ­ 
+	sWaterPurifier.nCoolValve = CLOSE;
+	sWaterPurifier.nHotValve = CLOSE;
+	sWaterPurifier.nWater = COOL;
+	sWaterPurifier.nState = STOP;
+
+	WaterPurifier();
+	WaterPurifierInfo( sWaterPurifier );
+
+	while(1)
+	{
+		nMenu = Menu();
+		if( nMenu == 7 )
+			break;
+
+		switch( nMenu )
+		{
+		case 1: // Âù¹° ¼±ÅÃ
+				sWaterPurifier.nWater = COOL;
+				break;
+		case 2: // ´õ¿î¹° ¼±ÅÃ
+				sWaterPurifier.nWater = HOT;
+				break;
+		case 3: // ÄÅ ³Ö±â
+				if( nCup == CUP_POP ) // ÄÅÀÌ ¾ø´Â »óÅÂÀÏ ¶§¸¸ 
+					nCup = CUP_PUSH;
+				break;
+		case 4: // ¹ëºê ¹Ð±â
+				if( sWaterPurifier.nState  == STOP )
+				{
+					if( sWaterPurifier.nWater == COOL )
+					{
+						sWaterPurifier.nCoolValve = OPEN;
+						sWaterPurifier.nState = RUN;
+					}else{ 
+						sWaterPurifier.nHotValve = OPEN;
+						sWaterPurifier.nState = STOP;
+					}
+				}
+				break;	
+		case 5: // ÄÚÅ© ´­·È´Ù ³õ±â
+				if( sWaterPurifier.nHotValve == OPEN && sWaterPurifier.nState == STOP )
+				{
+					sWaterPurifier.nState = RUN;					
+				}				
+				break;
+		case 6: // ÄÅ »©±â (¹ëºê ³õ±â)
+				if( sWaterPurifier.nWater == COOL )
+					sWaterPurifier.nCoolValve = CLOSE;
+				else
+					sWaterPurifier.nHotValve = CLOSE;
+				sWaterPurifier.nState = STOP;
+				sWaterPurifier.nWater = COOL; // ±âº» ¹°
+				nCup = CUP_POP;
+				break;				
+		}
+
+		WaterPurifier();
+
+		// ¼³Á¤µÈ ¸Þ´º¿¡ µû¸¥ Á¤¼ö±âÀÇ µ¿ÀÛÀ» Ã³¸®
+		if( nCup == CUP_PUSH )
+		{
+			if( sWaterPurifier.nWater == COOL )
+			 	Cup( 29, 13 );
+			else
+				Cup( 9, 13 );
+		}
+
+		if( sWaterPurifier.nState == RUN )
+		{
+			if( sWaterPurifier.nWater == COOL )
+				Water( 31, 10, COOL );
+			else
+				Water( 11, 10, HOT );
+		}
+
+		WaterPurifierInfo( sWaterPurifier );
+	}
+	
+	getch();
+	return 0;
+}
