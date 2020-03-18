@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\CodeCademyExercises\1. NameGrab\bin\Debug\_1.NameGrab.exe.config
+C:\Users\hyoil\source\repos\CodeCademyExercises\1. NameGrab\bin\Debug\_1.NameGrab.exe
+C:\Users\hyoil\source\repos\CodeCademyExercises\1. NameGrab\bin\Debug\_1.NameGrab.pdb
+C:\Users\hyoil\source\repos\CodeCademyExercises\1. NameGrab\obj\Debug\_1.NameGrab.exe
+C:\Users\hyoil\source\repos\CodeCademyExercises\1. NameGrab\obj\Debug\_1.NameGrab.pdb
+C:\Users\hyoil\source\repos\CodeCademyExercises\1. NameGrab\obj\Debug\1. NameGrab.csprojAssemblyReference.cache
