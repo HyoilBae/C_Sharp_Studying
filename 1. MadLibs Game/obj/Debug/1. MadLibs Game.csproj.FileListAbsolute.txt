@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\CodeCademyExercises\1. MadLibs Game\bin\Debug\_1.MadLibs_Game.exe.config
+C:\Users\hyoil\source\repos\CodeCademyExercises\1. MadLibs Game\bin\Debug\_1.MadLibs_Game.exe
+C:\Users\hyoil\source\repos\CodeCademyExercises\1. MadLibs Game\bin\Debug\_1.MadLibs_Game.pdb
+C:\Users\hyoil\source\repos\CodeCademyExercises\1. MadLibs Game\obj\Debug\1. MadLibs Game.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\CodeCademyExercises\1. MadLibs Game\obj\Debug\_1.MadLibs_Game.exe
+C:\Users\hyoil\source\repos\CodeCademyExercises\1. MadLibs Game\obj\Debug\_1.MadLibs_Game.pdb
