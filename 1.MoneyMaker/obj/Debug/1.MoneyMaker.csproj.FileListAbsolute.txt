@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\CodeCademyExercises\1.MoneyMaker\bin\Debug\1.MoneyMaker.exe.config
+C:\Users\hyoil\source\repos\CodeCademyExercises\1.MoneyMaker\bin\Debug\1.MoneyMaker.exe
+C:\Users\hyoil\source\repos\CodeCademyExercises\1.MoneyMaker\bin\Debug\1.MoneyMaker.pdb
+C:\Users\hyoil\source\repos\CodeCademyExercises\1.MoneyMaker\obj\Debug\1.MoneyMaker.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\CodeCademyExercises\1.MoneyMaker\obj\Debug\1.MoneyMaker.exe
+C:\Users\hyoil\source\repos\CodeCademyExercises\1.MoneyMaker\obj\Debug\1.MoneyMaker.pdb
