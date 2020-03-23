@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\CodeCademyExercises\Architect_Arithmetic\bin\Debug\Architect_Arithmetic.exe.config
+C:\Users\hyoil\source\repos\CodeCademyExercises\Architect_Arithmetic\bin\Debug\Architect_Arithmetic.exe
+C:\Users\hyoil\source\repos\CodeCademyExercises\Architect_Arithmetic\bin\Debug\Architect_Arithmetic.pdb
+C:\Users\hyoil\source\repos\CodeCademyExercises\Architect_Arithmetic\obj\Debug\Architect_Arithmetic.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\CodeCademyExercises\Architect_Arithmetic\obj\Debug\Architect_Arithmetic.exe
+C:\Users\hyoil\source\repos\CodeCademyExercises\Architect_Arithmetic\obj\Debug\Architect_Arithmetic.pdb
