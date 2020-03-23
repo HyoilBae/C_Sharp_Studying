@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\C#\C#_Studying\Csharp_Generic\bin\Debug\Csharp_Generic.exe.config
+C:\Users\hyoil\source\repos\C#\C#_Studying\Csharp_Generic\bin\Debug\Csharp_Generic.exe
+C:\Users\hyoil\source\repos\C#\C#_Studying\Csharp_Generic\bin\Debug\Csharp_Generic.pdb
+C:\Users\hyoil\source\repos\C#\C#_Studying\Csharp_Generic\obj\Debug\Csharp_Generic.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\C#\C#_Studying\Csharp_Generic\obj\Debug\Csharp_Generic.exe
+C:\Users\hyoil\source\repos\C#\C#_Studying\Csharp_Generic\obj\Debug\Csharp_Generic.pdb
