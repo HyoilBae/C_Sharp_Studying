@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\CodeCademyExercises\ChooseYourOwnAdventure\bin\Debug\ChooseYourOwnAdventure.exe.config
+C:\Users\hyoil\source\repos\CodeCademyExercises\ChooseYourOwnAdventure\bin\Debug\ChooseYourOwnAdventure.exe
+C:\Users\hyoil\source\repos\CodeCademyExercises\ChooseYourOwnAdventure\bin\Debug\ChooseYourOwnAdventure.pdb
+C:\Users\hyoil\source\repos\CodeCademyExercises\ChooseYourOwnAdventure\obj\Debug\ChooseYourOwnAdventure.exe
+C:\Users\hyoil\source\repos\CodeCademyExercises\ChooseYourOwnAdventure\obj\Debug\ChooseYourOwnAdventure.pdb
+C:\Users\hyoil\source\repos\CodeCademyExercises\ChooseYourOwnAdventure\obj\Debug\ChooseYourOwnAdventure.csprojAssemblyReference.cache
