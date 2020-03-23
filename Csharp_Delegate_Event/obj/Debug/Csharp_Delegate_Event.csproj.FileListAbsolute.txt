@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\C#\C#_Studying\Csharp_Delegate_Event\obj\Debug\Csharp_Delegate_Event.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\C#\C#_Studying\Csharp_Delegate_Event\bin\Debug\Csharp_Delegate_Event.exe.config
+C:\Users\hyoil\source\repos\C#\C#_Studying\Csharp_Delegate_Event\bin\Debug\Csharp_Delegate_Event.exe
+C:\Users\hyoil\source\repos\C#\C#_Studying\Csharp_Delegate_Event\bin\Debug\Csharp_Delegate_Event.pdb
+C:\Users\hyoil\source\repos\C#\C#_Studying\Csharp_Delegate_Event\obj\Debug\Csharp_Delegate_Event.exe
+C:\Users\hyoil\source\repos\C#\C#_Studying\Csharp_Delegate_Event\obj\Debug\Csharp_Delegate_Event.pdb
