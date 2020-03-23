@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\CodeCademyExercises\ClassesAndObject\bin\Debug\ClassesAndObject.exe.config
+C:\Users\hyoil\source\repos\CodeCademyExercises\ClassesAndObject\bin\Debug\ClassesAndObject.exe
+C:\Users\hyoil\source\repos\CodeCademyExercises\ClassesAndObject\bin\Debug\ClassesAndObject.pdb
+C:\Users\hyoil\source\repos\CodeCademyExercises\ClassesAndObject\obj\Debug\ClassesAndObject.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\CodeCademyExercises\ClassesAndObject\obj\Debug\ClassesAndObject.exe
+C:\Users\hyoil\source\repos\CodeCademyExercises\ClassesAndObject\obj\Debug\ClassesAndObject.pdb
