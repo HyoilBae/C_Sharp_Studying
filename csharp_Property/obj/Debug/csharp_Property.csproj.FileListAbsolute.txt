@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\C#\C#_Studying\csharp_Property\bin\Debug\csharp_Property.exe.config
+C:\Users\hyoil\source\repos\C#\C#_Studying\csharp_Property\bin\Debug\csharp_Property.exe
+C:\Users\hyoil\source\repos\C#\C#_Studying\csharp_Property\bin\Debug\csharp_Property.pdb
+C:\Users\hyoil\source\repos\C#\C#_Studying\csharp_Property\obj\Debug\csharp_Property.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\C#\C#_Studying\csharp_Property\obj\Debug\csharp_Property.exe
+C:\Users\hyoil\source\repos\C#\C#_Studying\csharp_Property\obj\Debug\csharp_Property.pdb
