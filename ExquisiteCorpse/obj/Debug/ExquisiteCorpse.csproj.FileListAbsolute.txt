@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\CodeCademyExercises\ExquisiteCorpse\bin\Debug\ExquisiteCorpse.exe.config
+C:\Users\hyoil\source\repos\CodeCademyExercises\ExquisiteCorpse\bin\Debug\ExquisiteCorpse.exe
+C:\Users\hyoil\source\repos\CodeCademyExercises\ExquisiteCorpse\bin\Debug\ExquisiteCorpse.pdb
+C:\Users\hyoil\source\repos\CodeCademyExercises\ExquisiteCorpse\obj\Debug\ExquisiteCorpse.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\CodeCademyExercises\ExquisiteCorpse\obj\Debug\ExquisiteCorpse.exe
+C:\Users\hyoil\source\repos\CodeCademyExercises\ExquisiteCorpse\obj\Debug\ExquisiteCorpse.pdb
