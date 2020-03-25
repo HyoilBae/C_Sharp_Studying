@@ -1,0 +1,5 @@
+C:\Users\hyoil\source\repos\CodeCademyExercises\MovieScript\bin\Debug\MovieScript.exe.config
+C:\Users\hyoil\source\repos\CodeCademyExercises\MovieScript\bin\Debug\MovieScript.exe
+C:\Users\hyoil\source\repos\CodeCademyExercises\MovieScript\bin\Debug\MovieScript.pdb
+C:\Users\hyoil\source\repos\CodeCademyExercises\MovieScript\obj\Debug\MovieScript.exe
+C:\Users\hyoil\source\repos\CodeCademyExercises\MovieScript\obj\Debug\MovieScript.pdb
