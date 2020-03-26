@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\CodeCademyExercises\RoverControlCenter\bin\Debug\RoverControlCenter.exe.config
+C:\Users\hyoil\source\repos\CodeCademyExercises\RoverControlCenter\bin\Debug\RoverControlCenter.exe
+C:\Users\hyoil\source\repos\CodeCademyExercises\RoverControlCenter\bin\Debug\RoverControlCenter.pdb
+C:\Users\hyoil\source\repos\CodeCademyExercises\RoverControlCenter\obj\Debug\RoverControlCenter.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\CodeCademyExercises\RoverControlCenter\obj\Debug\RoverControlCenter.exe
+C:\Users\hyoil\source\repos\CodeCademyExercises\RoverControlCenter\obj\Debug\RoverControlCenter.pdb
