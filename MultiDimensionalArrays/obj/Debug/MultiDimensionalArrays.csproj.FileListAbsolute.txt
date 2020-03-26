@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\C#\C#_Studying\MultiDimensionalArrays\bin\Debug\MultiDimensionalArrays.exe.config
+C:\Users\hyoil\source\repos\C#\C#_Studying\MultiDimensionalArrays\bin\Debug\MultiDimensionalArrays.exe
+C:\Users\hyoil\source\repos\C#\C#_Studying\MultiDimensionalArrays\bin\Debug\MultiDimensionalArrays.pdb
+C:\Users\hyoil\source\repos\C#\C#_Studying\MultiDimensionalArrays\obj\Debug\MultiDimensionalArrays.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\C#\C#_Studying\MultiDimensionalArrays\obj\Debug\MultiDimensionalArrays.exe
+C:\Users\hyoil\source\repos\C#\C#_Studying\MultiDimensionalArrays\obj\Debug\MultiDimensionalArrays.pdb
