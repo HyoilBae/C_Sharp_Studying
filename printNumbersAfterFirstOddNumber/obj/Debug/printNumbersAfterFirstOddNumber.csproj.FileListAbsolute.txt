@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\CodeCademyExercises\printNumbersAfterFirstOddNumber\bin\Debug\printNumbersAfterFirstOddNumber.exe.config
+C:\Users\hyoil\source\repos\CodeCademyExercises\printNumbersAfterFirstOddNumber\bin\Debug\printNumbersAfterFirstOddNumber.exe
+C:\Users\hyoil\source\repos\CodeCademyExercises\printNumbersAfterFirstOddNumber\bin\Debug\printNumbersAfterFirstOddNumber.pdb
+C:\Users\hyoil\source\repos\CodeCademyExercises\printNumbersAfterFirstOddNumber\obj\Debug\printNumbersAfterFirstOddNumber.exe
+C:\Users\hyoil\source\repos\CodeCademyExercises\printNumbersAfterFirstOddNumber\obj\Debug\printNumbersAfterFirstOddNumber.pdb
+C:\Users\hyoil\source\repos\CodeCademyExercises\printNumbersAfterFirstOddNumber\obj\Debug\printNumbersAfterFirstOddNumber.csprojAssemblyReference.cache
