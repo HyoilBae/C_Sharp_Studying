@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\CodeCademyExercises\TrueOrFalse\bin\Debug\TrueOrFalse.exe.config
+C:\Users\hyoil\source\repos\CodeCademyExercises\TrueOrFalse\bin\Debug\TrueOrFalse.exe
+C:\Users\hyoil\source\repos\CodeCademyExercises\TrueOrFalse\bin\Debug\TrueOrFalse.pdb
+C:\Users\hyoil\source\repos\CodeCademyExercises\TrueOrFalse\obj\Debug\TrueOrFalse.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\CodeCademyExercises\TrueOrFalse\obj\Debug\TrueOrFalse.exe
+C:\Users\hyoil\source\repos\CodeCademyExercises\TrueOrFalse\obj\Debug\TrueOrFalse.pdb
