@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\CodeCademyExercises\TheObjectOfYourAffection\bin\Debug\TheObjectOfYourAffection.exe.config
+C:\Users\hyoil\source\repos\CodeCademyExercises\TheObjectOfYourAffection\bin\Debug\TheObjectOfYourAffection.exe
+C:\Users\hyoil\source\repos\CodeCademyExercises\TheObjectOfYourAffection\bin\Debug\TheObjectOfYourAffection.pdb
+C:\Users\hyoil\source\repos\CodeCademyExercises\TheObjectOfYourAffection\obj\Debug\TheObjectOfYourAffection.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\CodeCademyExercises\TheObjectOfYourAffection\obj\Debug\TheObjectOfYourAffection.exe
+C:\Users\hyoil\source\repos\CodeCademyExercises\TheObjectOfYourAffection\obj\Debug\TheObjectOfYourAffection.pdb
