@@ -1,0 +1,6 @@
+C:\Users\hyoil\source\repos\CodeCademyExercises\SupernaturalInheritance\bin\Debug\SupernaturalInheritance.exe.config
+C:\Users\hyoil\source\repos\CodeCademyExercises\SupernaturalInheritance\bin\Debug\SupernaturalInheritance.exe
+C:\Users\hyoil\source\repos\CodeCademyExercises\SupernaturalInheritance\bin\Debug\SupernaturalInheritance.pdb
+C:\Users\hyoil\source\repos\CodeCademyExercises\SupernaturalInheritance\obj\Debug\SupernaturalInheritance.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\CodeCademyExercises\SupernaturalInheritance\obj\Debug\SupernaturalInheritance.exe
+C:\Users\hyoil\source\repos\CodeCademyExercises\SupernaturalInheritance\obj\Debug\SupernaturalInheritance.pdb
