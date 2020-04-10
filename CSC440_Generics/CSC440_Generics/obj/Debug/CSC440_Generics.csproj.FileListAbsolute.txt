@@ -1,0 +1,7 @@
+C:\Users\hyoil\source\repos\CSC440_Generics\CSC440_Generics\bin\Debug\CSC440_Generics.exe.config
+C:\Users\hyoil\source\repos\CSC440_Generics\CSC440_Generics\bin\Debug\CSC440_Generics.exe
+C:\Users\hyoil\source\repos\CSC440_Generics\CSC440_Generics\bin\Debug\CSC440_Generics.pdb
+C:\Users\hyoil\source\repos\CSC440_Generics\CSC440_Generics\obj\Debug\CSC440_Generics.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\CSC440_Generics\CSC440_Generics\obj\Debug\CSC440_Generics.csproj.CoreCompileInputs.cache
+C:\Users\hyoil\source\repos\CSC440_Generics\CSC440_Generics\obj\Debug\CSC440_Generics.exe
+C:\Users\hyoil\source\repos\CSC440_Generics\CSC440_Generics\obj\Debug\CSC440_Generics.pdb
