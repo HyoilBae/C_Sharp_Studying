@@ -1,0 +1,7 @@
+C:\Users\hyoil\source\repos\MSSA_Inheritance\MSSA_Inheritance\bin\Debug\MSSA_Inheritance.exe.config
+C:\Users\hyoil\source\repos\MSSA_Inheritance\MSSA_Inheritance\bin\Debug\MSSA_Inheritance.exe
+C:\Users\hyoil\source\repos\MSSA_Inheritance\MSSA_Inheritance\bin\Debug\MSSA_Inheritance.pdb
+C:\Users\hyoil\source\repos\MSSA_Inheritance\MSSA_Inheritance\obj\Debug\MSSA_Inheritance.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\MSSA_Inheritance\MSSA_Inheritance\obj\Debug\MSSA_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\hyoil\source\repos\MSSA_Inheritance\MSSA_Inheritance\obj\Debug\MSSA_Inheritance.exe
+C:\Users\hyoil\source\repos\MSSA_Inheritance\MSSA_Inheritance\obj\Debug\MSSA_Inheritance.pdb
