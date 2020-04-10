@@ -1,0 +1,5 @@
+C:\Users\hyoil\source\repos\CSC440 WPF\CSC440 WPF\obj\Debug\CSC440 WPF.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\CSC440 WPF\CSC440 WPF\obj\Debug\MainWindow.g.cs
+C:\Users\hyoil\source\repos\CSC440 WPF\CSC440 WPF\obj\Debug\App.g.cs
+C:\Users\hyoil\source\repos\CSC440 WPF\CSC440 WPF\obj\Debug\CSC440 WPF_MarkupCompile.cache
+C:\Users\hyoil\source\repos\CSC440 WPF\CSC440 WPF\obj\Debug\CSC440 WPF_MarkupCompile.lref
