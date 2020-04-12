@@ -1,0 +1,7 @@
+C:\Users\hyoil\source\repos\C_Sharp_Studying\working_with_for_loops\working_with_for_loops\bin\Debug\working_with_for_loops.exe.config
+C:\Users\hyoil\source\repos\C_Sharp_Studying\working_with_for_loops\working_with_for_loops\bin\Debug\working_with_for_loops.exe
+C:\Users\hyoil\source\repos\C_Sharp_Studying\working_with_for_loops\working_with_for_loops\bin\Debug\working_with_for_loops.pdb
+C:\Users\hyoil\source\repos\C_Sharp_Studying\working_with_for_loops\working_with_for_loops\obj\Debug\working_with_for_loops.csprojAssemblyReference.cache
+C:\Users\hyoil\source\repos\C_Sharp_Studying\working_with_for_loops\working_with_for_loops\obj\Debug\working_with_for_loops.csproj.CoreCompileInputs.cache
+C:\Users\hyoil\source\repos\C_Sharp_Studying\working_with_for_loops\working_with_for_loops\obj\Debug\working_with_for_loops.exe
+C:\Users\hyoil\source\repos\C_Sharp_Studying\working_with_for_loops\working_with_for_loops\obj\Debug\working_with_for_loops.pdb
